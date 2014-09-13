@@ -5,7 +5,7 @@ Ok, Consegui Tranquilo.
 
 Ler Bem as dicas
 http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/
-Ver todos os Videos da Play List (ver várias Vezes inclusive)
+Ver todos os Videos da Play List (ver várias Vezes inclusive) E anotando os comandos
 https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
 
 A sequencia é simples
@@ -21,3 +21,12 @@ deve se verificar o status,
 git status
 
 
+
+
+outros comandos
+
+git diff     verifica o que não foi salvo na Stagin
+git diff --staged      verifica os que estao no stage 
+
+git log
+git log -p
