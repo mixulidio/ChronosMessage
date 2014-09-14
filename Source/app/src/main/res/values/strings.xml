@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChronosMessage</string>
+    <string name="hello_world">Hello world! Tela 1</string>
+    <string name="hello_world_tela2">Hello world! Tela 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_next">Next</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+
+</resources>
