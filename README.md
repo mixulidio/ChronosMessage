@@ -30,3 +30,18 @@ git diff --staged      verifica os que estao no stage
 
 git log
 git log -p
+
+etc..
+------
+Reverter para o statu do ultimo commit
+git checkout -- nome_arquivo
+
+---
+
+para remover arquivos deletados 
+git rm
+
+---
+
+Teste ok
+Teste 2
